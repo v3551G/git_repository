@@ -1,2 +1,3 @@
 XXXXXXXX.................XXXXXXXXXX
-开发人员2修改test.txt
+合并开发人员1修改与开发人员2修改test.txt
+
